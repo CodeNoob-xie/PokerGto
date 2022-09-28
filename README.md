@@ -1,5 +1,6 @@
 # PokerGto
-GTO(Game Theory Optimal) developed by WENCONG!
+A GTO(Game Theory Optimal) software developed by WENCONG!
+Give you the best strategy to win in normal cash game!
 
 -Calculating the Expecting Value in every hand
 
